@@ -1,0 +1,188 @@
+{
+	"Game": {
+		"title": "Lewa Safari Quiz Game",
+		"GameList": [{
+			"image": "lewaelephant.jpg",
+			"points": "50",
+			"hint": "largest land animal",
+			"answer": "elephant",
+			"rating": "animal"
+		}, 
+        {
+			"image": "lewagiraffe.jpg",
+			"points": "50",
+			"hint": "longest necked animal",
+			"answer": "giraffe",
+			"rating": "animal"
+		},
+        {
+			"image": "lewagrevy.jpg",
+			"points": "50",
+			"hint": "horse like creature",
+			"answer": "zebra",
+			"rating": "animal"
+		},
+        {
+			"image": "lewaroad.jpg",
+			"points": "100",
+			"hint": "you drive on it",
+			"answer": "road",
+			"rating": "thing"
+		},
+        {
+			"image": "lewaelephanteat.jpg",
+			"points": "200",
+			"hint": "type of animal that eats plants",
+			"answer": "herbivore",
+			"rating": "riddle"
+		},
+        {
+			"image": "lewagrevy.jpg",
+			"points": "150",
+			"hint": "many 'h'erbivores together",
+			"answer": "herd",
+			"rating": "riddle"
+        },
+        {
+			"image": "leopard.jpg",
+			"points": "50",
+			"hint": "the leo has many spots",
+			"answer": "leopard",
+			"rating": "animal"
+        },
+        {
+			"image": "impala.jpg",
+			"points": "75",
+			"hint": "this antelope is a 'pal'",
+			"answer": "impala",
+			"rating": "animal"
+        },
+        {
+			"image": "camels.jpg",
+			"points": "50",
+			"hint": "humps help it during drought",
+			"answer": "camel",
+			"rating": "animal"
+        },
+        {
+			"image": "cheatahs.jpg",
+			"points": "50",
+			"hint": "fastest land animal is not a cheat",
+			"answer": "cheatah",
+			"rating": "animal"
+        },
+        {
+			"image": "beisaoryx.jpg",
+			"points": "75",
+			"hint": "is this an antelope OR an icks?",
+			"answer": "oryx",
+			"rating": "animal"
+        },
+        {
+			"image": "lions.jpg",
+			"points": "50",
+			"hint": "males of species lie around",
+			"answer": "lion",
+			"rating": "animal"
+        },
+        {
+			"image": "lions.jpg",
+			"points": "150",
+			"hint": "many lions together",
+			"answer": "pride",
+			"rating": "riddle"
+        },
+        {
+			"image": "camouflage.jpg",
+			"points": "200",
+			"hint": "natural disguise - french word",
+			"answer": "camouflage",
+			"rating": "riddle"
+        },
+        {
+			"image": "landrover.jpg",
+			"points": "100",
+			"hint": "not an Irish 'rover'",
+			"answer": "landrover",
+			"rating": "thing"
+		},
+		{
+			"image": "baboon.jpg",
+			"points": "50",
+			"hint": "rhymes with goon",
+			"answer": "baboon",
+			"rating": "animal"
+        },
+        {
+			"image": "buffalo.jpg",
+			"points": "50",
+			"hint": "large and buff",
+			"answer": "buffalo",
+			"rating": "animal"
+        },
+        {
+			"image": "marathon.jpg",
+			"points": "100",
+			"hint": "very long run",
+			"answer": "marathon",
+			"rating": "event"
+        },
+        {
+			"image": "masai.jpg",
+			"points": "100",
+			"hint": "'mas'-ively tall people",
+			"answer": "masai",
+			"rating": "tribe"
+        },
+        {
+			"image": "mtkenya.jpg",
+			"points": "100",
+			"hint": "mt 'east african country' - one word",
+			"answer": "mtkenya",
+			"rating": "feature"
+        },
+        {
+			"image": "ostrich.jpg",
+			"points": "50",
+			"hint": "to see one is a 'rich' reward",
+			"answer": "ostrich",
+			"rating": "animal"
+        },
+        {
+			"image": "rhinos.jpg",
+			"points": "50",
+			"hint": "endangered - poached for ivory",
+			"answer": "rhino",
+			"rating": "animal"
+        },
+        {
+			"image": "security.jpg",
+			"points": "150",
+			"hint": "helps keep animals 's'afe",
+			"answer": "security",
+			"rating": "riddle"
+        },
+        {
+			"image": "stork.jpg",
+			"points": "75",
+			"hint": "'st'aggeringly long legs",
+			"answer": "stork",
+			"rating": "animal"
+        },
+        {
+			"image": "warthog.jpg",
+			"points": "50",
+			"hint": "despite its warts a fine creature",
+			"answer": "warthog",
+			"rating": "animal"
+        },
+        {
+			"image": "stork.jpg",
+			"points": "150",
+			"hint": "many storks together",
+			"answer": "flock",
+			"rating": "riddle"
+        }
+      ]
+	}
+}
